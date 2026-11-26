@@ -1,0 +1,10 @@
+{
+  "name": "short-visual-answers",
+  "version": "1.0.0",
+  "description": "Makes Claude answer short and direct, verdict first, with tables, evidence and diagrams/PNG cards instead of long text.",
+  "author": { "name": "mohamedelkadi", "url": "https://github.com/mohamedelkadi" },
+  "homepage": "https://github.com/mohamedelkadi/short-visual-answers",
+  "repository": "https://github.com/mohamedelkadi/short-visual-answers",
+  "license": "MIT",
+  "keywords": ["style", "concise", "diagrams", "tables", "communication"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "short-visual-answers",
+  "owner": {
+    "name": "mohamedelkadi",
+    "url": "https://github.com/mohamedelkadi"
+  },
+  "plugins": [
+    {
+      "name": "short-visual-answers",
+      "source": "./",
+      "description": "Makes Claude answer short and direct, verdict first, with tables, evidence and diagrams/PNG cards instead of long text.",
+      "version": "1.0.0"
+    }
+  ],
+  "metadata": {
+    "description": "Skill that makes Claude answer short, direct and visual."
+  }
+}
